@@ -1,0 +1,18 @@
+.topcorner{
+    position:absolute;
+    top:0;
+    left:0;
+   }
+
+.rightcorner{
+    position:absolute;
+    top:0;
+    left: 90%;
+    background-color: yellow;
+}
+
+.centerFlex {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
