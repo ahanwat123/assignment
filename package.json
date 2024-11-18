@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/lab": "^4.0.0-alpha.56",
-    "firebase": "7.8.0",
+    "firebase": "10.9.0",
     "react": "^16.12.0",
     "react-avatar-firebase": "0.0.3",
     "react-dom": "^16.12.0",
